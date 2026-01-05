@@ -4,17 +4,6 @@ A responsive portfolio website showcasing winter photography. This website featu
 
 ---
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-
----
-
 ## Features
 
 - **Responsive Design**: Works on desktop, tablet, and mobile screens.
